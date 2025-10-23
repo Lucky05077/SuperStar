@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 15299452191 -p pjh20051102 -l 257100786
+        run: python main.py -u 175991000920 -p ADee3784 -l 257100786
